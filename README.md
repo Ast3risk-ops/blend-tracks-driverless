@@ -9,6 +9,8 @@
 
 ------
 
+`impl` URL: `https://github.com/Ast3risk-ops/blend-tracks-driverless/raw/main`
+
 Packages removed:
 
 - `broadcom-wl-dkms` - Firmware for Broadcom Wifi cards
