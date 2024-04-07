@@ -7,6 +7,16 @@
 * MATE: `mate`
 * XFCE: `xfce`
 
+------
+
+Packages removed:
+
+- `broadcom-wl-dkms` - Firmware for Broadcom Wifi cards
+- `linux-atm` - Tools to support ATM networking under the Linux kernel
+- `linux-firmware-marvell` - Firmware for Marvell devices
+
+------
+
 ## Example GNOME `/system.yaml` (vanilla)
 
 ```
